@@ -191,7 +191,7 @@ function CreateTrip() {
           <DialogHeader>
             <DialogTitle></DialogTitle>
             <DialogDescription>
-              <img src='/public/logo.svg' className="w-40 h-auto ml-[34%]" />
+              <img src='/logo.svg' className="w-40 h-auto ml-[34%]" />
             </DialogDescription>
             <h2 className='font-bold text-lg mt-5'>Sign In with Google</h2>
             <p>Sign In to the App with Google Authentication securely</p>
